@@ -1109,6 +1109,7 @@
     "core.login.invalidmoodleversion": "این نسخه از برنامه سایت قابلیت اتصال به موبایل ندارد",
     "core.login.invalidsite": "نشانی سایت معتبر نیست",
     "core.login.login": "ورود به سایت",
+    "core.login.loginbutton": "ورود به سایت",
     "core.login.logininsiterequired": "لازم است به سایت از طریق مرورگر متصل گردید",
     "core.login.loginsteps": "برای داشتن دسترسی کامل به این سایت، پیش از هر چیز باید یک حساب کاربری بسازید.",
     "core.login.missingemail": "آدرس پست الکترونیک را وارد کنید",
